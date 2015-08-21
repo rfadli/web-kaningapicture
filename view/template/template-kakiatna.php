@@ -7,7 +7,7 @@
 <script type="text/javascript" src="/public/tools/jquery.min.js"></script> 
 <script type="text/javascript" src="/public/tools/cufon-yui.js"></script>
 <script type="text/javascript" src="/public/tools/Akzidenz-Grotesk_BQ_500-Akzidenz-Grotesk_BQ_500-Akzidenz-Grotesk_BQ_italic_700.font.js"></script>
-<script type="text/javascript" src="/public/FontSoupGerman_700.font.js"></script>
+<script type="text/javascript" src="/public/tools/FontSoupGerman_700.font.js"></script>
 
 <script type="text/javascript" src="/public/tools/Gotham_Rounded_Medium_350.font.js"></script>
 <script type="text/javascript">
